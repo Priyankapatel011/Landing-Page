@@ -1,2 +1,2 @@
 # Landing-Page
-Create A landing page for food delivery using HTML, CSS.
+Create a landing page for food delivery using HTML, CSS.
